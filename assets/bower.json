@@ -1,0 +1,18 @@
+{
+  "name": "nts.is",
+  "version": "2.0.0",
+  "description": "mini index website of Naomi T. Salmon",
+  "keywords": [
+    "homepage"
+  ],
+  "authors": [
+    "Naomi T. Salmon <nts@nts.is>",
+    "Max F. Albrecht <1@178.is>"
+  ],
+  "license": "(c) Naomi T. Salmon",
+  "homepage": "http://nts.is",
+  "private": true,
+  "dependencies": {
+    "bootstrap-theme-NTS": "git://github.com/NTS/bootstrap-theme-NTS.git#gh-pages"
+  }
+}
