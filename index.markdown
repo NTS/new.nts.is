@@ -4,7 +4,7 @@ tagline: Naomi Tereza Salmon
 layout: default
 ---
 
-## <i class="icon-off"><span class="sr-only">⚑</span></i> {#personal}
+## <i class="icon-off"><b>⚑</b></i> {#personal}
 
 - [NaomiTerezaSalmon.net](http://NaomiTerezaSalmon.net "Website of Naomi Tereza Salmon")
 - [BarkingDogsUnited.com](http://BarkingDogsUnited.com "Artist Duo: Barking Dogs United")
@@ -20,8 +20,8 @@ layout: default
 
 ### ✍ {#contact}
 
-- <i class="icon-twitter"></i>[@en\_ti\_es](https://twitter.com/en_ti_es "Naomi Tereza Salmon on twitter")
-- [FB.me/ntsalmon](https://www.facebook.com/ntsalmon "Naomi Tereza Salmon on Facebook")
+- <i class="icon-twitter"><b>twitter</b></i>: [@en\_ti\_es](https://twitter.com/en_ti_es "Naomi Tereza Salmon on twitter")
+- <i class="icon-facebook"><b>facebook</b></i>: [ntsalmon](https://www.facebook.com/ntsalmon "Naomi Tereza Salmon on Facebook")
 
 
 ### ♾ {#info}
