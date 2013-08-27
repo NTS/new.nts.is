@@ -20,8 +20,8 @@ layout: default
 
 ### ✍ {#contact}
 
-- <i class="icon-twitter"><b>twitter</b></i>: [@en\_ti\_es](https://twitter.com/en_ti_es "Naomi Tereza Salmon on twitter")
-- <i class="icon-facebook"><b>facebook</b></i>: [ntsalmon](https://www.facebook.com/ntsalmon "Naomi Tereza Salmon on Facebook")
+- <i class="icon-twitter"><b>twitter:</b></i> [@en\_ti\_es](https://twitter.com/en_ti_es "Naomi Tereza Salmon on twitter")
+- <i class="icon-facebook-sign"><b>facebook:</b></i> [ntsalmon](https://www.facebook.com/ntsalmon "Naomi Tereza Salmon on Facebook")
 
 
 ### ♾ {#info}
