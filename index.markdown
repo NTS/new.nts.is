@@ -4,7 +4,7 @@ tagline: Naomi Tereza Salmon
 layout: default
 ---
 
-## <span class="sr-only">⚑</span> {#personal}
+## <i class="icon-off"><span class="sr-only">⚑</span></i> {#personal}
 
 - [NaomiTerezaSalmon.net](http://NaomiTerezaSalmon.net "Website of Naomi Tereza Salmon")
 - [BarkingDogsUnited.com](http://BarkingDogsUnited.com "Artist Duo: Barking Dogs United")
